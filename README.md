@@ -1,5 +1,6 @@
 # Syllabus Parser Product 
-
+[Link to App on Streamlit](https://syllabus-parser.streamlit.app/)
+  
 ## About the User Problem
 As I finish up grad school, I noticed how much time I spent manually copying information from a PDF syllabus over to my Notion. This product aims to solve this issue. Users can upload their syllabi as a PDF and then get a CSV output with the required assignments. Read the technical details and limitations sections to make improvements.  
 Please note that you will need to have an API key from Google AI Studio.
